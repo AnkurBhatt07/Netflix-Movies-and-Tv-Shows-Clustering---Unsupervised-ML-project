@@ -21,6 +21,7 @@ Finally, we developed a content-based recommender system using the cosine simila
 In conclusion, this project successfully analyzed the Netflix dataset of TV shows and movies using NLP techniques. By clustering the content and developing a content-based recommender system, we aimed to enhance the user experience and mitigate subscriber churn for Netflix. The findings and recommendations from this project can contribute to the continuous growth and success of Netflix in the highly competitive streaming entertainment industry.
 
 Conclusion
+
   Based on the exploratory data analysis (EDA), we can conclude the following:
   Movies constitute the majority (71.7%) of Netflix's content, while TV shows make up the remaining portion (28.3%).
   Adult and Teen categories are the most prevalent in Netflix's content library.
